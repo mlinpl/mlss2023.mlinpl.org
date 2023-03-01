@@ -63,6 +63,10 @@
     text-transform: uppercase;
 }
 
+.uppercase {
+    text-transform: uppercase;
+}
+
 .nowrap {
     white-space: nowrap;
 }
@@ -199,6 +203,10 @@ a:focus {
     }
 }
 
+.navbar-nav, .navbar-brand{
+    background: radial-gradient(rgba(255, 255, 255, 0.75) 0%, rgba(255,255,255,0) 100%);
+}
+
 .intro {
     display: table;
     width: 100%;
@@ -214,7 +222,8 @@ a:focus {
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
-    background: radial-gradient(circle, rgba(255,255,255,1) 25%, rgba(255,255,255,0) 75%); 
+    /*background: radial-gradient(circle, rgba(255,255,255,1) 25%, rgba(255,255,255,0) 75%); */
+    background: radial-gradient(farthest-side at 50% 75%, rgb(255, 255, 255, 1) 50%, rgba(255,255,255,0) 100%);
     position: relative;
 }
 
@@ -245,10 +254,10 @@ a:focus {
     width: 70px;
     height: 70px;
     margin-top: 15px;
-    padding: 7px 16px;
+    padding: 12px 16px;
     border: 2px solid #000;
-    border-radius: 35px;
-    font-size: 40px;
+    border-radius: 100%;
+    font-size: 30px;
     color: #000;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
@@ -366,6 +375,7 @@ a:focus {
     border: 1px solid {{ site.color.main }};
     color: {{ site.color.main }};
     background-color: transparent;
+    border-radius: 0;
 }
 
 .btn-default:hover,
@@ -399,6 +409,14 @@ ul.banner-social-buttons li {
 
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0;
+    }
+
+    .feature {
+        margin-bottom: 30px;
+    }
+
+    #sponsors img {
+        padding: 3% 0 0 !important;
     }
 }
 
@@ -541,4 +559,146 @@ body {
     25% {opacity: 0;}
     92% {opacity: 0;}
     100% {opacity: 1;}
+}
+
+.feature {
+    margin-bottom: 60px;
+}
+
+#sponsors a {
+    display: inline-block;
+    width: 100%;
+}
+
+#sponsors img {
+    padding: 5%;
+}
+
+.justify-content-center {
+    -webkit-box-pack: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+}
+
+.d-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.mt-5 {
+    margin-top: 3rem !important;
+}
+
+.mt-2 {
+    margin-top: 0.5rem !important;
+}
+
+
+.sb-name {
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+@media(min-width:1200px) {
+    .sb-name {
+        margin-top: 15px;
+        margin-bottom: 10px;
+        margin-left: 30px;
+        margin-right: 0px;
+    }
+}
+
+.sb-affiliation {
+    margin-bottom: 15px;
+}
+
+@media(min-width:1200px) {
+    .sb-affiliation {
+        margin-bottom: 50px;
+        margin-left: 30px;
+        margin-right: 0px;
+    }
+}
+
+.person-photo {
+    border-radius: 50%;
+    border: 3px solid {{ site.color.main }};
+}
+
+.person-photo-with-social {
+    position: relative;
+}
+
+.person-social {
+    font-size: 20px;
+}
+
+.person-photo-with-social .person-social a i {
+    position: absolute;
+    background: {{ site.color.main }};
+    border-radius: 50%;
+    padding: 8px;
+    color: white !important;
+    width: 35px;
+    height: 35px;
+}
+
+.person-photo-with-social .person-social a:nth-child(1) i {
+    bottom: 13px;
+    right: 25px;
+}
+
+.person-photo-with-social .person-social a:nth-child(2) i {
+    bottom: 50px;
+    right: 0px;
+}
+
+
+/* Timeline styles */
+
+.timeline .timeline-date {
+    text-align: right;
+    border-right: 1px solid {{ site.color.main }};
+    margin-right: -1px;
+}
+
+.timeline .row:last-child .timeline-date {
+    border-right: none;
+}
+
+.timeline .timeline-date:before {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    height: 1em;
+    width: 1em;
+    background-color: {{ site.color.main }};
+    color: #fff;
+    right: -0.55em;
+    top: 0.65em;
+}
+
+.timeline .timeline-desc {
+    border-left: 1px solid {{ site.color.main }};
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+
+.timeline .row:last-child .timeline-desc {
+    border-left: none;
 }
