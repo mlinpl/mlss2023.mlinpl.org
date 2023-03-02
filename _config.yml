@@ -28,8 +28,8 @@ description: >-
   Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland.
 main-image: images/mlinpl-logo-black.png
 twitter-username: "@MLinPL"
-baseurl: "/www-dev" # the subpath of your site, e.g. /blog
-url: "https://mlinpl.github.io/www-dev/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "mlss2023.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 logo: <span class="logo"><span class="main-name">MLSS<span class="superscript">S</span></span> <span class="sub-name">2023</span></span>
 inline-logo: <span class="logo"><span class="main-name">MLSS<span class="superscript">S</span></span> <span class="sub-name">2023</span></span>
