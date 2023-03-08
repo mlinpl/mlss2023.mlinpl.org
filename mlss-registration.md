@@ -58,9 +58,9 @@ To apply for the summer school, you will need to provide the following informati
 - A brief history of your education / employment
 - A short statement of research interests, a few sentences (max 2000 characters, but don’t feel pressured to use all available space): describe your research interests, projects related to ML you worked on or would like to work on, and motivation for attending the summer school.
 - An extended abstract on (choose ONLY ONE):
-  1. **[Research]** Your own project related to Machine Learning or Computational Neuroscience OR
-  2. **[Reproduction]** A project reproducing the results of a paper published by someone else in a top conference or journal in ML (e.g., NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP, TPAMI, JMLR) or Neuroscience (Nature, Nature Neuroscience, Nature Communications, Science, Science Advances, PNAS, Neuron, J. Neuroscience, eLife, PLOS Comp. Neurosci.) in the past 3 years, OR
-  3. **[Review]** A review of 3 related research papers on an ML or Neuroscience topic of your choice (e.g., 3 papers on continual learning, or 3 papers on attention models, etc.), published by other authors in top conferences or journals (e.g., NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACL for ML; Nature, Science, PNAS, Neuron, J. Neuroscience, eLife, PLOS Comp. Neurosci. for Neuroscience).
+  1. **[Research]** Your own project related to Machine Learning or Computational Science OR
+  2. **[Reproduction]** A project reproducing the results of a paper published by someone else in a top conference or journal in ML or applied ML (e.g., NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP, TPAMI, JMLR, Nature, Nature Communications, Science, Science Advances, PNAS) in the past 3 years, OR
+  3. **[Review]** A review of 3 related research papers on an ML or applied ML topic of your choice (e.g., 3 papers on continual learning, or 3 papers on attention models, etc.), published by other authors in top conferences or journals (e.g., NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP, TPAMI, JMLR, Nature, Nature Communications, Science, Science Advances, PNAS).
 
 ## Notes regarding the extended abstract
 
