@@ -1,5 +1,5 @@
 ---
-layout: mlss-page
+layout: page
 title: Registration
 permalink: /registration
 ---
