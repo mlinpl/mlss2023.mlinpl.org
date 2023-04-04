@@ -29,7 +29,7 @@ The school welcomes applications from candidates all over the world, regardless 
 
 ## Timeline
 
-- 11:59 pm Anywhere-on-Earth (AOE) Thursday 8th April 2023 - Registration closes
+- 11:59 pm Anywhere-on-Earth (AOE) Saturday 8th April 2023 - Registration closes
 - 28th April 2023 - Results announced
 - 28th April 2023 - 8th May 2023 - Time to pay the registration fee (if your application is accepted)
 - 8th May 2023 - Final confirmation of participation
