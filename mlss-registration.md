@@ -37,8 +37,8 @@ The school welcomes applications from candidates all over the world, regardless 
 
 - ~~11:59 PM AOE (Anywhere-on-Earth) Saturday 8th April 2023~~ 9:59 PM UTC-0, Tusday 11th April 2023 - Registration closes
 - 28th April 2023 - Results announced
-- 28th April 2023 - 8th May 2023 - Time to pay the registration fee (if your application is accepted)
-- 8th May 2023 - Final confirmation of participation
+- 28th April 2023 - 16th May 2023 - Time to pay the registration fee (if your application is accepted)
+- 16th May 2023 - Final confirmation of participation
 
 
 ## Costs
