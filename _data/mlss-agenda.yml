@@ -63,7 +63,7 @@
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 15:00 - 15:30
       height: 1
-    - title: Thea Aarrestad
+    - title: Thea Klæboe Aarrestad
       subtitle: TBA
       time: 15:30 - 17:00
       height: 3
@@ -215,3 +215,6 @@
     - title: <i class="fa-solid fa-utensils"></i> Lunch
       time: 12:30 - 13:30
       height: 2
+    - title: Closing remarks
+      time: 13:30 - 14:00
+      height: 1
