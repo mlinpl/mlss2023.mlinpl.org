@@ -124,9 +124,9 @@
     - title: <i class="fa-solid fa-utensils"></i> Lunch
       time: 12:30 - 13:30
       height: 2
-    - title: Time off
+    - title: Free time
       time: 13:30+
-      height: 8
+      height: 3
 
 - title: Friday
   subtitle: 30 June
@@ -195,6 +195,9 @@
       subtitle: TBA
       time: 15:30 - 17:00
       height: 3
+    - title: Free time
+      time: 17:00+
+      height: 2
 
 - title: Sunday
   subtitle: 2 July
