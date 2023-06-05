@@ -5,7 +5,7 @@ permalink: /zapytania-ofertowe
 ---
 
 
-### Zapytania ofertowe dotyczące zapewnienia mejsc noclegowych
+### Zapytanie ofertowe dotyczące zapewnienia miejsc noclegowych
 
 Dokumenty:
 - [<i class="fa-solid fa-file-pdf"></i> zapytanie ofertowe]({{ "./documents/zapytania-ofertowe/hotele/Zapytanie_ofertowe_ML2Mind2 HOTELE_zapytanie_signed.pdf" | relative_url }})
