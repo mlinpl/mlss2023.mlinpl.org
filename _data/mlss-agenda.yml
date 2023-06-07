@@ -31,7 +31,7 @@
       height: 3
     - title: Free time / break
       time: 17:30+
-      height: 1
+      height: 15
     - title: <i class="fa-solid fa-handshake"></i> Party 1
       time: 18:00+
       height: 1
@@ -43,14 +43,14 @@
     - title: ""
       height: 1
     - title: Marco Cuturi
-      subtitle: TBA
+      subtitle: A primer on Optimal Transport Theory and Algorithms, with Applications to Single-Cell Omics
       time: 9:00 - 10:30
       height: 4
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 10:30 - 11:00
       height: 1
     - title: Marco Cuturi
-      subtitle: TBA
+      subtitle: A primer on Optimal Transport Theory and Algorithms, with Applications to Single-Cell Omics
       time: 11:00 - 12:30
       height: 3
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
@@ -69,7 +69,7 @@
       height: 3
     - title: Poster session
       time: 17:00+
-      height: 2
+      height: 15
 
 - title: Wednesday
   subtitle: 28 June
@@ -97,13 +97,16 @@
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 15:00 - 15:30
       height: 1
-    - title: Stanisław Jastrzębski
-      subtitle: TBA
+    - title: Sayak Ray Chowdhury
+      subtitle: Differential Privacy in Reinforcement Learning
       time: 15:30 - 17:00
       height: 3
+    - title: Research projects at Jagiellonian University
+      time: 17:15 - 18:15
+      height: 15
     - title: Free time
-      time: 17:00+
-      height: 2
+      time: 18:15+
+      height: 1
 
 - title: Thursday
   subtitle: 29 June
@@ -160,7 +163,7 @@
       height: 3
     - title: Free time / break
       time: 17:00+
-      height: 1
+      height: 15
     - title: <i class="fa-solid fa-champagne-glasses"></i> Party 2
       time: 18:00+
       height: 1
@@ -177,27 +180,27 @@
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 10:30 - 11:00
       height: 1
-    - title: Sayak Ray Chowdhury
-      subtitle: Differential Privacy in Reinforcement Learning
+    - title: Stanisław Jastrzębski
+      subtitle: Nothing Makes Sense in Deep Learning Except in the Light of the Simplicity Bias
       time: 11:00 - 12:30
       height: 3
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 12:30 - 13:30
       height: 2
     - title: Michael Bronstein
-      subtitle: TBA
+      subtitle: Geometric deep learning
       time: 13:30 - 15:00
       height: 3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 15:00 - 15:30
       height: 1
     - title: Michael Bronstein
-      subtitle: TBA
+      subtitle: Geometric deep learning
       time: 15:30 - 17:00
       height: 3
     - title: Free time
       time: 17:00+
-      height: 2
+      height: 15
 
 - title: Sunday
   subtitle: 2 July
@@ -205,7 +208,7 @@
     - title: ""
       height: 1
     - title: Krzysztof Krawiec
-      subtitle: TBA
+      subtitle: Machine Learning meets Program Synthesis
       time: 9:00 - 10:30
       height: 4
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
