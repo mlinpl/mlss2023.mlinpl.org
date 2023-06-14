@@ -898,11 +898,16 @@ body {
     border-bottom: none;
 }
 
+.event-1-no-border{
+    height: 64px;
+    border-bottom: none;
+}
+
 .event-1{
     height: 64px;
 }
 
-.event-15{
+.event-1-5{
     height: 80px;
 }
 
@@ -910,8 +915,16 @@ body {
     height: 96px;
 }
 
+.event-2-5{
+    height: 112px;
+}
+
 .event-3{
     height: 128px;
+}
+
+.event-3-5{
+    height: 144px;
 }
 
 .event-4{

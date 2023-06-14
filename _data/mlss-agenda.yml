@@ -34,7 +34,7 @@
       height: 3
     - title: Free time / break
       time: 17:30+
-      height: 15
+      height: 1-5
     - title: <i class="fa-solid fa-handshake"></i> Party 1
       time: 18:00+
       height: 1
@@ -44,7 +44,7 @@
   subtitle: 27 June
   events:
     - title: ""
-      height: 1
+      height: 1-no-border
     - title: Registration
       time: 8:30 - 9:00
       height: 1
@@ -75,13 +75,13 @@
       height: 3
     - title: Poster session
       time: 17:00+
-      height: 15
+      height: 1-5
 
 - title: Wednesday
   subtitle: 28 June
   events:
     - title: ""
-      height: 1
+      height: 1-no-border
     - title: Registration
       time: 8:30 - 9:00
       height: 1
@@ -112,7 +112,7 @@
       height: 3
     - title: Research projects at Jagiellonian University
       time: 17:15 - 18:15
-      height: 15
+      height: 1-5
     - title: Free time
       time: 18:15+
       height: 1
@@ -121,7 +121,7 @@
   subtitle: 29 June
   events:
     - title: ""
-      height: 1
+      height: 1-no-border
     - title: Registration
       time: 8:30 - 9:00
       height: 1
@@ -135,7 +135,7 @@
     - title: Mathias Niepert
       subtitle: Learning with Discrete Structures and Algorithms
       time: 11:00 - 12:30
-      height: 3
+      height: 4
     - title: <i class="fa-solid fa-utensils"></i> Lunch
       time: 12:30 - 13:30
       height: 2
@@ -147,7 +147,7 @@
   subtitle: 30 June
   events:
     - title: ""
-      height: 1
+      height: 1-no-border
     - title: Registration
       time: 8:30 - 9:00
       height: 1
@@ -178,7 +178,7 @@
       height: 3
     - title: Free time / break
       time: 17:00+
-      height: 15
+      height: 1-5
     - title: <i class="fa-solid fa-champagne-glasses"></i> Party 2
       time: 18:00+
       height: 1
@@ -187,7 +187,7 @@
   subtitle: 1 July
   events:
     - title: ""
-      height: 1
+      height: 1-no-border
     - title: Registration
       time: 8:30 - 9:00
       height: 1
@@ -218,13 +218,13 @@
       height: 3
     - title: Free time
       time: 17:00+
-      height: 15
+      height: 1-5
 
 - title: Sunday
   subtitle: 2 July
   events:
     - title: ""
-      height: 1
+      height: 1-no-border
     - title: Registration
       time: 8:30 - 9:00
       height: 1
