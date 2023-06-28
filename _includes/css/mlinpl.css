@@ -930,3 +930,16 @@ body {
 .event-4{
     height: 160px;
 }
+
+.event-5{
+    height: 192px;
+}
+
+.event-6{
+    height: 224px;
+}
+
+.event-8-no-border{
+    height: 288px;
+    border-bottom: none;
+}

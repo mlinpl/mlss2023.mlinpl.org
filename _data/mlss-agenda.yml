@@ -125,15 +125,15 @@
     - title: Registration
       time: 8:45 - 9:00
       height: 1
-    - title: Mathias Niepert
-      subtitle: Learning with Discrete Structures and Algorithms
+    - title: Stanisław Jastrzębski
+      subtitle: Nothing Makes Sense in Deep Learning Except in the Light of the Simplicity Bias
       time: 9:00 - 10:30
       height: 4
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 10:30 - 11:00
       height: 1
-    - title: Mathias Niepert
-      subtitle: Learning with Discrete Structures and Algorithms
+    - title: Przemysław Spurek
+      subtitle: Hypernetwork approach to generating 3D objects
       time: 11:00 - 12:30
       height: 4
     - title: <i class="fa-solid fa-utensils"></i> Lunch
@@ -187,19 +187,22 @@
   subtitle: 1 July
   events:
     - title: ""
-      height: 1-no-border
+      height: 8-no-border
+    # - title: Registration
+    #   time: 8:45 - 9:00
+    #   height: 1
+    # - title: Free time / TBA
+    #   subtitle: 
+    #   time: 9:00 - 10:30
+    #   height: 4
+    # - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+    #   time: 10:30 - 11:00
+    #   height: 1
     - title: Registration
-      time: 8:45 - 9:00
+      time: 10:45 - 11:00
       height: 1
     - title: Żaneta Swiderska-Chadaj
       subtitle: Machine Learning in medical image analysis - challenges and opportunities
-      time: 9:00 - 10:30
-      height: 4
-    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-      time: 10:30 - 11:00
-      height: 1
-    - title: Stanisław Jastrzębski
-      subtitle: Nothing Makes Sense in Deep Learning Except in the Light of the Simplicity Bias
       time: 11:00 - 12:30
       height: 4
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
