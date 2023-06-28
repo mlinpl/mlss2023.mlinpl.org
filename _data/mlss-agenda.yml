@@ -187,7 +187,7 @@
   subtitle: 1 July
   events:
     - title: ""
-      height: 8-no-border
+      height: 6-no-border
     # - title: Registration
     #   time: 8:45 - 9:00
     #   height: 1
@@ -195,11 +195,11 @@
     #   subtitle: 
     #   time: 9:00 - 10:30
     #   height: 4
-    # - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-    #   time: 10:30 - 11:00
-    #   height: 1
     - title: Registration
-      time: 10:45 - 11:00
+      time: 10:15 - 10:30
+      height: 1
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 10:30 - 11:00
       height: 1
     - title: Żaneta Swiderska-Chadaj
       subtitle: Machine Learning in medical image analysis - challenges and opportunities

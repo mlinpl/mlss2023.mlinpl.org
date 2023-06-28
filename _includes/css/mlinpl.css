@@ -939,6 +939,11 @@ body {
     height: 224px;
 }
 
+.event-6-no-border{
+    height: 224px;
+    border-bottom: none;
+}
+
 .event-8-no-border{
     height: 288px;
     border-bottom: none;
