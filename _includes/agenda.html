@@ -5,8 +5,14 @@ Expects following parameters: agenda-data
 <section id="agenda" class="container content-section">
     <div class="row">
         <div class="col-lg-12">
-            <h2>/ Agenda</h2>
+            <h2>/ Agenda & recordings</h2>
+            <p>
+                Most of the lectures can be watched on our <a class="btn btn-default" href="https://www.youtube.com/playlist?list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh"><i class="fa-brands fa-youtube"></i> YouTube channel</a>.
+            </br>
+                Links to the specific lectures can be found in the agenda below.
+            </p>
         </div>
+
         <div class="col-lg-12 agenda d-flex">
         {% for day in include.agenda-data %}
         <div class="day days-{{ include.agenda-data | size }}">
@@ -14,9 +20,14 @@ Expects following parameters: agenda-data
             <div class="events">
                 {% for event in day.events %}
                 <div class="event event-{{ event.height }}">
-                    <div>{{ event.time }}</div>
+                    <div>{{ event.time }}
+                        {% if event.video %}
+                        <a href="{{ event.video }}">(<i class="fa-brands fa-youtube"></i> video)</a>
+                        {% endif %}
+                    </div>
                     <div><strong>{{ event.title }}</strong></div>
                     <div style="font-size: 12px;">{{ event.subtitle }}</div>
+
                 </div>
                 {% endfor %}
             </div>

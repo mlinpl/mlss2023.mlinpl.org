@@ -7,6 +7,7 @@
     {% include header.html %}
     {% include mlss/about.html %}
     {% include mlss/speakers.html %}
+    {% include agenda.html agenda-data=site.data.mlss-agenda %}
     {% include timeline.html 
         timeline-title="Timeline" 
         timeline-data=site.data.mlss-timeline 
@@ -15,8 +16,6 @@
         date-col-width=5
         desc-col-width=7
     %}
-    {% include agenda.html agenda-data=site.data.mlss-agenda %}
-    {% include stream.html %}
     {% include mlss/venue.html %}
     {% include mlss/organizers.html %}
     {% include mlss/project.html %}

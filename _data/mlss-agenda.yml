@@ -11,6 +11,7 @@
       subtitle: Simulation-based inference for large forward models in physics and astronomy
       time: 9:00 - 10:30
       height: 4
+      video: https://www.youtube.com/watch?v=9ZM6PxL2vcw&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=2
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 10:30 - 11:00
       height: 1
@@ -18,12 +19,14 @@
       subtitle: Simulation-based inference for large forward models in physics and astronomy
       time: 11:00 - 12:30
       height: 4
+      video: https://www.youtube.com/watch?v=9ZM6PxL2vcw&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 12:30 - 13:30
       height: 1
     - title: Bingqing Cheng
       subtitle: Predicting materials properties with the help of machine learning
       time: 13:30 - 15:00
+      video: https://www.youtube.com/watch?v=vVXD1Ds4Efk&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=3
       height: 3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 15:00 - 15:30
@@ -32,6 +35,7 @@
       subtitle: Algorithm discovery using reinforcement learning
       time: 15:30 - 17:30
       height: 3
+      video: https://www.youtube.com/watch?v=cbZDAO-Ifdc&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=3
     - title: Free time / break
       time: 17:30+
       height: 1-5
@@ -52,6 +56,7 @@
       subtitle: A primer on Optimal Transport Theory and Algorithms, with Applications to Single-Cell Omics
       time: 9:00 - 10:30
       height: 4
+      video: https://www.youtube.com/watch?v=k1CeOJdQQrc&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=4
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 10:30 - 11:00
       height: 1
@@ -59,6 +64,7 @@
       subtitle: A primer on Optimal Transport Theory and Algorithms, with Applications to Single-Cell Omics
       time: 11:00 - 12:30
       height: 4
+      video: https://www.youtube.com/watch?v=k1CeOJdQQrc&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=4
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 12:30 - 13:30
       height: 1
@@ -66,6 +72,7 @@
       subtitle: Deep Learning for Drug Pair Scoring
       time: 13:30 - 15:00
       height: 3
+      video: https://www.youtube.com/watch?v=VEWJ4wLYFNA&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 15:00 - 15:30
       height: 1
@@ -73,6 +80,7 @@
       subtitle: "Unlocking the Secrets of the Universe: Accelerating Discovery with Machine Learning at CERN"
       time: 15:30 - 17:00
       height: 3
+      video: https://www.youtube.com/watch?v=aGsaSHL-5R0&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=6
     - title: Poster session
       time: 17:00+
       height: 1-5
@@ -89,6 +97,7 @@
       subtitle: Bayesian models, Bayesian networks, and Bayesian neural networks with applications in computational biology
       time: 9:00 - 10:30
       height: 4
+      video: https://www.youtube.com/watch?v=-5DJwfKj56k&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=7
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 10:30 - 11:00
       height: 1
@@ -96,6 +105,7 @@
       subtitle: Uncertainty in Deep Learning
       time: 11:00 - 12:30
       height: 4
+      video: https://www.youtube.com/watch?v=fxiI_akW6MA&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=8
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 12:30 - 13:30
       height: 1
@@ -103,6 +113,7 @@
       subtitle: Reaction Prediction and Retrosynthesis
       time: 13:30 - 15:00
       height: 3
+      video: https://www.youtube.com/watch?v=aKPZXVx67rs&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=9
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 15:00 - 15:30
       height: 1
@@ -110,6 +121,7 @@
       subtitle: Differential Privacy in Reinforcement Learning
       time: 15:30 - 17:00
       height: 3
+      video: https://www.youtube.com/watch?v=Nqjfb9NVn1E&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=10
     - title: Research projects at Jagiellonian University
       time: 17:15 - 18:15
       height: 1-5
@@ -129,6 +141,7 @@
       subtitle: Nothing Makes Sense in Deep Learning Except in the Light of the Simplicity Bias
       time: 9:00 - 10:30
       height: 4
+      video: https://www.youtube.com/watch?v=PV2EAkcgc7o&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=11
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 10:30 - 11:00
       height: 1
@@ -136,6 +149,7 @@
       subtitle: Hypernetwork approach to generating 3D objects
       time: 11:00 - 12:30
       height: 4
+      video: https://www.youtube.com/watch?v=T_1G-u2yELM&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=12
     - title: <i class="fa-solid fa-utensils"></i> Lunch
       time: 12:30 - 13:30
       height: 1
@@ -155,6 +169,7 @@
       subtitle: Machine Learning for Molecules
       time: 9:00 - 10:30
       height: 4
+      video: https://www.youtube.com/watch?v=bCVefa3dSlE&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=13
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 10:30 - 11:00
       height: 1
@@ -162,6 +177,7 @@
       subtitle: Machine Learning for Molecules
       time: 11:00 - 12:30
       height: 4
+      video: https://www.youtube.com/watch?v=bCVefa3dSlE&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=13
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 12:30 - 13:30
       height: 1
@@ -169,6 +185,7 @@
       subtitle: Towards an Artificial Muse for new Ideas in Physics
       time: 13:30 - 15:00
       height: 3
+      video: https://www.youtube.com/watch?v=UgKbZZM9IVk&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=14
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 15:00 - 15:30
       height: 1
@@ -176,6 +193,7 @@
       subtitle: Towards an Artificial Muse for new Ideas in Physics
       time: 15:30 - 17:00
       height: 3
+      video: https://www.youtube.com/watch?v=UgKbZZM9IVk&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=14
     - title: Free time / break
       time: 17:00+
       height: 1-5
@@ -212,12 +230,14 @@
       subtitle: Geometric deep learning
       time: 13:30 - 15:00
       height: 3
+      video: https://www.youtube.com/watch?v=hROSXAY2JBc&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=15
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 15:00 - 15:30
       height: 1
     - title: Michael Bronstein
       subtitle: Geometric deep learning
       time: 15:30 - 17:00
+      video: https://www.youtube.com/watch?v=hROSXAY2JBc&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=15
       height: 3
     - title: Free time
       time: 17:00+
@@ -235,6 +255,7 @@
       subtitle: Machine Learning meets Program Synthesis
       time: 9:00 - 10:30
       height: 4
+      video: https://www.youtube.com/watch?v=vmBfyjF38ls&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=16
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       time: 10:30 - 11:00
       height: 1
@@ -242,6 +263,7 @@
       subtitle: Interpretable Deep Learning with Prototypical Parts
       time: 11:00 - 12:30
       height: 4
+      video: https://www.youtube.com/watch?v=Hvla3sgSXIc&list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh&index=17
     - title: Closing remarks
       time: 12:30 - 13:00
       height: 1

@@ -57,17 +57,14 @@ navigation:
   - name: "/ Speakers"
     url: "#speakers"
 
+  - name: "/ Agenda & recordings"
+    url: "#agenda"
+
   - name: "/ Timeline"
     url: "#timeline"
 
   - name: "/ Registration"
     url: "registration"
-
-  - name: "/ Agenda"
-    url: "#agenda"
-
-  - name: "/ Recordings"
-    url: "#stream"
 
   - name: "/ Venue"
     url: "#venue"
